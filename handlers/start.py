@@ -36,11 +36,11 @@ async def start_(client: Client, message: Message):
                         "🍹 ᴏᴡɴᴇʀ 🍹", url=f"https://t.me/{me}"
                     ),
                     InlineKeyboardButton(
-                        "🍒 sᴜᴘᴘᴏʀᴛ 🍒", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "🍒 sᴜᴘᴘᴏʀᴛ 🍒", url=f"https://t.me/+TFNht-Xwon1lM2Y1"
                     )
                 ],[
                     InlineKeyboardButton(
-                        "🔎 ɪɴʟɪɴᴇ 🔎", switch_inline_query_current_chat=""
+                        "💞 ʟᴏᴠᴇ ᴠɪᴅᴇᴏs 💞", url=f"https://t.me/Luv_Vids""
                     ),
                     InlineKeyboardButton(
                         "🤯 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🤯", url="https://t.me/zara_THE_addiction"
